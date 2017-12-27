@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/ewotring/react-blog-exercise/issues"
   },
-  "homepage": "https://github.com/ewotring/react-blog-exercise#readme"
+  "homepage": "https://github.com/ewotring/react-blog-exercise#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "express": "^4.16.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-middleware": "^2.0.3"
+  }
 }
