@@ -1,0 +1,19 @@
+{
+  "name": "react-blog-exercise",
+  "version": "1.0.0",
+  "description": "Exercise to demonstrate comfort with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewotring/react-blog-exercise.git"
+  },
+  "author": "Erik Wotring",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewotring/react-blog-exercise/issues"
+  },
+  "homepage": "https://github.com/ewotring/react-blog-exercise#readme"
+}
